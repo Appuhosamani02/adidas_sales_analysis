@@ -25,7 +25,7 @@ This project analyzes **Adidas sales data** to extract **key business insights**
 ### 💽 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Appuhosamani02/adidas-sales-analysis.git
+   git clone https://github.com/Appuhosamani02/adidas_sales_analysis.git
    ```
 2. Run Jupyter Notebook for analysis:  
    ```bash
